@@ -1,2 +1,2 @@
 read me file
-update from github.com
+update file from github.com
